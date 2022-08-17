@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Order summary card solution]()
-- Live Site URL: [GitHub Pages]()
+- Solution URL: [Order summary card solution](https://www.frontendmentor.io/solutions/ordersummarycomponentmain-wXzySHgJVy)
+- Live Site URL: [GitHub Pages](https://jpbyte.github.io/order-summary-component-main-1-/)
 
 ## My process
 
